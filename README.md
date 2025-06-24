@@ -81,7 +81,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/manishdhane" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="manish linkedin" height="30" /></a>
+  <a href="https://www.linkedin.com/in/manish-dhane/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="manish linkedin" height="30" /></a>
   <a href="mailto:manishdhane2004@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="manish email" height="30" /></a>
   <a href="https://leetcode.com/manishdhane" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="leetcode" height="30" /></a>
 </p>
